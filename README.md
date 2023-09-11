@@ -1,3 +1,3 @@
 # Hello, World! 👋
 
-My name is Chris and I'm a software developer.
+I'm an experienced full-stack software engineer with a focus on building web applications using the TALL (Tailwind, Alpine, Laravel, Livewire) stack.
